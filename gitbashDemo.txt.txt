@@ -1,1 +1,6 @@
-หตร๗
+
+
+git config --global user.email "tonylau2010@126.com"
+git config --global user.name "Liuxueli"
+
+ssh-keygen -t rsa -C "tonylau2010@126.com"
